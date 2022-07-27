@@ -1,0 +1,24 @@
+{
+    "id": "3469902F",
+    "path": "D:/bioinformatics/3.COVID-19/0.write/5.code_R/Figure_1/Figure_D/pheatmap.R",
+    "project_path": "pheatmap.R",
+    "type": "r_source",
+    "hash": "2965575063",
+    "contents": "",
+    "dirty": false,
+    "created": 1654740804798.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1654673912,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1654673912,
+    "read_only": false,
+    "read_only_alternatives": []
+}

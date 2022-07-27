@@ -1,0 +1,26 @@
+{
+    "id": "4D29AACF",
+    "path": "D:/bioinformatics/3.COVID-19/0.write/6.DATA AVAILABILITY STATEMENT/1.model/18.Riskmodel_Groups_clinical_analysis/violin.R",
+    "project_path": "violin.R",
+    "type": "r_source",
+    "hash": "2258098932",
+    "contents": "",
+    "dirty": false,
+    "created": 1658719920245.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "167,20",
+        "scrollLine": "157"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1658720082,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1658720082123,
+    "read_only": false,
+    "read_only_alternatives": []
+}

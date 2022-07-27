@@ -1,0 +1,26 @@
+{
+    "id": "F2784451",
+    "path": "D:/bioinformatics/3.COVID-19/0.write/6.DATA AVAILABILITY STATEMENT/Figure_1/Figure_EF/PCR_annotation.R",
+    "project_path": "PCR_annotation.R",
+    "type": "r_source",
+    "hash": "522078698",
+    "contents": "",
+    "dirty": false,
+    "created": 1658458514338.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "46,0",
+        "scrollLine": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1654674045,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1654674045,
+    "read_only": false,
+    "read_only_alternatives": []
+}

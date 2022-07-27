@@ -1,0 +1,26 @@
+{
+    "id": "262A7AD6",
+    "path": "D:/bioinformatics/3.COVID-19/0.write/6.DATA AVAILABILITY STATEMENT/1.model/16.diff_analysis_Subcluster/1.diff_analysis_non_COVID-19_and_COVID-19/diff_analysis.R",
+    "project_path": "diff_analysis.R",
+    "type": "r_source",
+    "hash": "1355319352",
+    "contents": "",
+    "dirty": false,
+    "created": 1658719693257.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,34",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1658719707,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1658719707738,
+    "read_only": false,
+    "read_only_alternatives": []
+}
